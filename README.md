@@ -14,5 +14,6 @@ Terms](https://www.iii.org/article/auto-insurance-jargon-buster "Auto Insurance 
 The objective of this project is to perform an exploratory data analysis on the claims_df dataset and produce an executive summary of your key insights and recommendtions to the executive team at the insurance company.
 
 File: Data_analysis_project.Rmd
-file:///Users/vasanthireddy/Downloads/AutoClaims_DataAnalysis.html
+
+AutoClaims_DataAnalysis.html
 
